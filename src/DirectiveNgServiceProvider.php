@@ -1,9 +1,6 @@
 <?php namespace Larangu\DirectiveNg;
 
 use Illuminate\Support\ServiceProvider;
-use Larangu\DirectiveNg\Directive\Generator;
-use Larangu\FormNg\Contracts\FormBuilder;
-use Larangu\FormNg\Form\BuilderNg;
 
 class DirectiveNgServiceProvider extends ServiceProvider
 {
